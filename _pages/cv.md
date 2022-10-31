@@ -37,6 +37,6 @@ Skills
 ======
 * Programming: Python, C++, Matlab, CUDA
 * Writing: LaTex, Markdown
-* Lanuages: Chinese, English
+* Languages: Chinese, English
 * Sports: Badminton, Swimming
 
