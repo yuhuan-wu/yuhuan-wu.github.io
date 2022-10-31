@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +10,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018/09 - Now: Ph.D., Nankai University
+  * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
+* 2014/08 - 2018/06: B.Eng., Xidian University, 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021/05 - Now: Research Intern, Autonomous Driving Lab, Alibaba DAMO Academy
+  * Leader: Dr. Xin Zhan
+  * Mentor: [Dr. Da Zhang](https://dazhang-cv.github.io/)
+  * Research Topic: 3D Perception for Autonomous Driving
   
+Teach Experience
+======
+* 2021/03 - 2021/06: Teaching Assitant, Data and Structures, with Prof. Jun Xu
+* 2020/09 - 2021/01: Teaching Assitant, Basic Knowledege of Computer, with Prof. Jun Xu
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C++, Matlab, CUDA
+* Writing: LaTex, Markdown
+* Lanuages: Chinese, English
+* Sports: Badminton, Swimming
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
