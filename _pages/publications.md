@@ -87,5 +87,5 @@ British Machine Vision Conference (BMVC), 2019
 
 2. **Scoot: A Perceptual Metric for Facial Sketches**
 Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul Rosin, and Rongrong Ji
-International Conference on Computer Vision (ICCV), 2019
+International Conference on Computer Vision (ICCV), 2019  
 [PDF](https://yuhuan-wu.github.io/files/[19ICCV] Scoot.pdf) [Code](https://github.com/DengPingFan/Scoot) [[中译版]](https://dengpingfan.github.io/papers/[2019][ICCV]Scoot_Chinese.pdf)
