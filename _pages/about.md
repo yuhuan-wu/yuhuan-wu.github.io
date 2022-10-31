@@ -22,7 +22,7 @@ News
 * [2022/04] One paper is accepted by IEEE TIP
 * [2022/03] One paper is accepted by IEEE CVPR
 * [2021/12] One paper is accepted by IEEE TPAMI!
-* [2021/05] I am a research intern at Alibaba DAMO Academy!
+* [2021/05] I join Alibaba DAMO Academy as a research intern!
 * [2021/03] One paper is accepted by IEEE CVPR
 * [2021/03] Two papers are accepted by IEEE TIP
 * [2020/09] One paper is accepted by IEEE TPAMI!
