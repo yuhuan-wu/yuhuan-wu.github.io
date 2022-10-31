@@ -20,7 +20,14 @@ Work experience
   * Leader: Dr. Xin Zhan
   * Mentor: [Dr. Da Zhang](https://dazhang-cv.github.io/)
   * Research Topic: 3D Perception for Autonomous Driving
-  
+
+Honors
+=====
+* 2022/09: 10 Outstanding Students of Nankai University in 2022
+* 2022/09: National Scholarship
+* 2021/09: First Prize Scholarship, Nankai University
+* 2021/06: Outstanding Reviewer, CVPR 2021
+
 Teach Experience
 ======
 * 2021/03 - 2021/06: Teaching Assitant, Data and Structures, with Prof. Jun Xu
