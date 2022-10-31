@@ -69,7 +69,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 1. **Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation**<br>
 Yun Liu\*, Yu-Huan Wu\*, Peisong Wen, Yujun Shi, Yu Qiu, Ming-Ming Cheng  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020  
-[[PDF]](https://yuhuan-wu.github.io/files/[20PAMI] LIID.pdf) [[Code]](https://github.com/yun-liu/LIID) [[中译版]](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS_CN.pdf)
+[[PDF]](https://yuhuan-wu.github.io/files/[20PAMI] LIID.pdf) [[Code]](https://github.com/yun-liu/LIID) [[中译版]](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS_CN.pdf) [ESI Highly Cited (1%)]
 
 2. **Rethinking Computer-aided Tuberculosis Diagnosis**  
 Yun Liu\*, Yu-Huan Wu\*, Yunfeng Ban, Huifang Wang, and Ming-Ming Cheng  
@@ -80,12 +80,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR, Oral), 2020
 2019 
 ====
 
-1. An Evaluation of Feature Matchers for Fundamental Matrix Estimation<br>
+1. **An Evaluation of Feature Matchers for Fundamental Matrix Estimation**<br>
 Jia-Wang Bian, Yu-Huan Wu, Ji Zhao, Yun Liu, Le Zhang, Ming-Ming Cheng, Ian Reid<br>
 British Machine Vision Conference (BMVC), 2019
-[[PDF]](https://yuhuan-wu.github.io/files/[19BMVC] FM.pdf)
+[[PDF]](https://yuhuan-wu.github.io/files/[19BMVC] FM.pdf) [[Code]]()
 
-2. Scoot: A Perceptual Metric for Facial Sketches
+2. **Scoot: A Perceptual Metric for Facial Sketches**
 Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul Rosin, and Rongrong Ji
 International Conference on Computer Vision (ICCV), 2019
-[PDF](https://yuhuan-wu.github.io/files/[19ICCV] Scoot.pdf) [] [Supplementary Material] [Code](https://github.com/DengPingFan/Scoot)
+[PDF](https://yuhuan-wu.github.io/files/[19ICCV] Scoot.pdf) [Code](https://github.com/DengPingFan/Scoot) [[中译版]](https://dengpingfan.github.io/papers/[2019][ICCV]Scoot_Chinese.pdf)
