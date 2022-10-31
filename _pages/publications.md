@@ -11,7 +11,7 @@ Preprints
 
 1. **Ret3D: Rethinking Object Relations for Efficient 3D Object Detection in Driving Scenes**<br>
 Yu-Huan Wu, Da Zhang, Le Zhang, Xin Zhan, Dengxin Dai, Yun Liu, and Ming-Ming Cheng<br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022<br>
+arXiv preprint , 2022<br>
 [[PDF]](https://yuhuan-wu.github.io/files/[22arxiv] Ret3D.pdf) 
 
 2022
