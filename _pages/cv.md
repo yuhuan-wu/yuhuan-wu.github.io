@@ -10,8 +10,9 @@ redirect_from:
 
 Education
 ======
-* 2018/09 - Now: Ph.D., Nankai University
+* 2018/09 - Now: Ph.D., College of Computer Science, Nankai University
   * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
+  * Thesis: Multi-Level Object Detection and Segmentation in Complex Scenes
 * 2014/08 - 2018/06: B.Eng., Xidian University, 
 
 Work experience
@@ -20,6 +21,8 @@ Work experience
   * Leader: Dr. Xin Zhan
   * Mentor: [Dr. Da Zhang](https://dazhang-cv.github.io/)
   * Research Topic: 3D Perception for Autonomous Driving
+* 2017/11 - 2018/08: Research Assistant, College of Computer Science, Nankai University
+  * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
 
 Honors
 =====
