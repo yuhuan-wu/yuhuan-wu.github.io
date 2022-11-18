@@ -82,10 +82,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR, Oral), 2020
 
 1. **An Evaluation of Feature Matchers for Fundamental Matrix Estimation**<br>
 Jia-Wang Bian, Yu-Huan Wu, Ji Zhao, Yun Liu, Le Zhang, Ming-Ming Cheng, Ian Reid<br>
-British Machine Vision Conference (BMVC), 2019
+British Machine Vision Conference (BMVC), 2019<br>
 [[PDF]](https://yuhuan-wu.github.io/files/[19BMVC] FM.pdf) [[Code]](https://github.com/JiawangBian/FM-Bench)
 
 2. **Scoot: A Perceptual Metric for Facial Sketches**
-Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul Rosin, and Rongrong Ji
+Deng-Ping Fan, Shengchuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul Rosin, and Rongrong Ji
 International Conference on Computer Vision (ICCV), 2019  
 [[PDF]](https://yuhuan-wu.github.io/files/[19ICCV] Scoot.pdf) [[Code]](https://github.com/DengPingFan/Scoot) [[中译版]](https://dengpingfan.github.io/papers/[2019][ICCV]Scoot_Chinese.pdf)

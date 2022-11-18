@@ -21,7 +21,7 @@ Work experience
   * Leader: Dr. Xin Zhan
   * Mentor: [Dr. Da Zhang](https://dazhang-cv.github.io/)
   * Research Topic: 3D Perception for Autonomous Driving
-* 2017/11 - 2018/08: Research Assistant, College of Computer Science, Nankai University
+* 2017/11 - 2018/08: Visiting Student, College of Computer Science, Nankai University
   * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
 
 Honors
@@ -33,8 +33,8 @@ Honors
 
 Teach Experience
 ======
-* 2021/03 - 2021/06: Teaching Assitant, Data and Structures, with Prof. Jun Xu
-* 2020/09 - 2021/01: Teaching Assitant, Basic Knowledege of Computer, with Prof. Jun Xu
+* 2021/03 - 2021/06: Teaching Assistant, Data and Structures, with Prof. Jun Xu
+* 2020/09 - 2021/01: Teaching Assistant, Basic Knowledge of Computer, with Prof. Jun Xu
 
 Skills
 ======
