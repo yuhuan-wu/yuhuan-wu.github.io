@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Yu-Huan Wu is a final-year Ph.D. candidate at college of computer science, Nankai University, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net). 
+Yu-Huan Wu is a scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD at college of computer science, Nankai University in 2022, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net). 
 He obtained his bachelor's degree at Xidian University in 2018.
-He is also a research intern at autonomous driving lab, Alibaba DAMO Academy since May 2021.
 
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
