@@ -10,12 +10,8 @@ redirect_from:
 
 Education
 ======
-* 2018/09 - Now: Ph.D., College of Computer Science, Nankai University
-  * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
-  * Thesis: Multi-Level Object Detection and Segmentation in Complex Scenes
+* 2018 - 2022: Ph.D., College of Computer Science, Nankai University
 * 2014/08 - 2018/06: B.Eng., Xidian University
-  * Major: Electronic Information Engineering
-  * Score: 93.57 (Rank: 1/62)
 
 Work experience
 ======
