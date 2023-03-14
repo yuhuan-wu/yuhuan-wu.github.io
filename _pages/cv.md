@@ -19,12 +19,8 @@ Education
 
 Work experience
 ======
-* 2021/05 - Now: Research Intern, Autonomous Driving Lab, Alibaba DAMO Academy
-  * Leader: Dr. Xin Zhan
-  * Mentor: [Dr. Da Zhang](https://dazhang-cv.github.io/)
-  * Research Topic: 3D Perception for Autonomous Driving
-* 2017/11 - 2018/08: Visiting Student, College of Computer Science, Nankai University
-  * Supervisor: [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm)
+* 2023/03 - Now: Scientist, IHPC, A*STAR, Singapore
+
 
 Honors
 =====
