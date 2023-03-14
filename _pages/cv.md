@@ -11,11 +11,11 @@ redirect_from:
 Education
 ======
 * 2018 - 2022: Ph.D., College of Computer Science, Nankai University
-* 2014/08 - 2018/06: B.Eng., Xidian University
+* 2014 - 2018: B.Eng., Xidian University
 
 Work experience
 ======
-* 2023/03 - Now: Scientist, IHPC, A*STAR, Singapore
+* 2023 - Now: Scientist, IHPC, A*STAR, Singapore
 
 
 Honors
