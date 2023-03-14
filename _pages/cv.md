@@ -20,10 +20,10 @@ Work experience
 
 Honors
 =====
-* 2022/09: 10 Outstanding Postgraduate Students of Nankai University in 2022
-* 2022/09: National Scholarship
-* 2021/09: First Prize Scholarship, Nankai University
-* 2021/06: Outstanding Reviewer, CVPR 2021
+* 2022 - 10 Outstanding Postgraduate Students of Nankai University in 2022
+* 2022 - National Scholarship
+* 2021 - First Prize Scholarship, Nankai University
+* 2021 - Outstanding Reviewer, CVPR 2021
 
 Teach Experience
 ======
