@@ -45,12 +45,12 @@ Chinese Journal of Computers (计算机学报),  45 (7), 1517-1528
 1. **MobileSal: Extremely Efficient RGB-D Salient Object Detection**  
 Yu-Huan Wu, Yun Liu, Jun Xu, Jia-Wang Bian, Yu-Chao Gu, Ming-Ming Cheng  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021  
-[[PDF]](https://yuhuan-wu.github.io/files/[21PAMI] MobileSal.pdf) [[Code]](https://github.com/yuhuan-wu/MobileSal) [[中译版]](https://mmcheng.net/wp-content/uploads/2022/02/21PAMI_MobileSal_CN.pdf) 
+[[PDF]](https://yuhuan-wu.github.io/files/[21PAMI] MobileSal.pdf) [[Code]](https://github.com/yuhuan-wu/MobileSal) [[中译版]](https://mmcheng.net/wp-content/uploads/2022/02/21PAMI_MobileSal_CN.pdf) **[ESI Highly Cited (1%)] [ESI Hot Paper (0.1%)]**
 
 2. **JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation**  
 Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, Rong-Guo Zhang, Ming-Ming Cheng  
 IEEE Transactions on Image Processing (TIP), 2021.  
-[[PDF]](https://yuhuan-wu.github.io/files/[21TIP] JCS.pdf) [[Code]](https://github.com/yuhuan-wu/JCS) [[中译版]](https://mftp.mmcheng.net/Papers/21TIP-JCS-COVID.pdf)
+[[PDF]](https://yuhuan-wu.github.io/files/[21TIP] JCS.pdf) [[Code]](https://github.com/yuhuan-wu/JCS) [[中译版]](https://mftp.mmcheng.net/Papers/21TIP-JCS-COVID.pdf) **[ESI Highly Cited (1%)] [ESI Hot Paper (0.1%)]**
 
 3. **Regularized Densely-connected Pyramid Network for Salient Instance Segmentation**  
 Yu-Huan Wu, Yun Liu, Le Zhang, Wang Gao, Ming-Ming Cheng  
@@ -69,7 +69,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 1. **Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation**<br>
 Yun Liu\*, Yu-Huan Wu\*, Peisong Wen, Yujun Shi, Yu Qiu, Ming-Ming Cheng  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020  
-[[PDF]](https://yuhuan-wu.github.io/files/[20PAMI] LIID.pdf) [[Code]](https://github.com/yun-liu/LIID) [[中译版]](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS_CN.pdf) [ESI Highly Cited (1%)]
+[[PDF]](https://yuhuan-wu.github.io/files/[20PAMI] LIID.pdf) [[Code]](https://github.com/yun-liu/LIID) [[中译版]](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS_CN.pdf) **[ESI Highly Cited (1%)]**
 
 2. **Rethinking Computer-aided Tuberculosis Diagnosis**  
 Yun Liu\*, Yu-Huan Wu\*, Yunfeng Ban, Huifang Wang, and Ming-Ming Cheng  
