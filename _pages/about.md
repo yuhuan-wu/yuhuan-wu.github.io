@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Yu-Huan Wu is a scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD at college of computer science, Nankai University in 2022, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net). 
-He obtained his bachelor's degree at Xidian University in 2018.
+Yu-Huan Wu is a scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net). 
+He obtained his bachelor's degree from Xidian University in 2018.
 
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
@@ -36,7 +36,7 @@ News
 Professional Services
 ======
 
-* Journal Reviewer: IEEE TPAMI/TIP/TCSVT/JBHI/TCSS, Information Fusion, Neurocomputing, JVCI, MIR...
-* Conference Reviewer: IEEE CVPR/ICCV, ECCV, NeurIPS, ICML, AAAI, IJCAI, PRCV...
+* Journal Reviewer: TPAMI, IJCV, TIP, Information Fusion, TCSVT, SCIS, JBHI, TCSS, Neurocomputing, JVCI, MIR...
+* Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, AAAI, IJCAI, PRCV...
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a6Rpe4yxrjdxbspsV_ibWXWzGnQwMoMJoAxads03giM&cl=ffffff&w=a"></script>
