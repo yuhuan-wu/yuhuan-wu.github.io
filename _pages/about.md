@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Yu-Huan Wu is a scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net). 
-He obtained his bachelor's degree from Xidian University in 2018.
-
+Yu-Huan Wu is a scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022.
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
 
-[[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wyh.nku [at] gmail.com]
+[New!] We are hiring! Currently, we welcome both short-term and long-term interns. Projects are related to, but not limited to, dense prediction and its robustness. IHPC will cover all costs during the internship in Singapore. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV.
+
+[[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] ihpc.a-star.edu.sg]
 
 News
 =======
