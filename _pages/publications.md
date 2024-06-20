@@ -14,26 +14,40 @@ Yu-Huan Wu, Da Zhang, Le Zhang, Xin Zhan, Dengxin Dai, Yun Liu, and Ming-Ming Ch
 Technical Report, arXiv preprint, 2022<br>
 [[PDF]](https://yuhuan-wu.github.io/files/[22arxiv] Ret3D.pdf) 
 
+2024
+====
+1. **Revisiting Computer-Aided Tuberculosis Diagnosis**
+Yun Liu, Yu-Huan Wu, Shi-Chen Zhang, Li Liu, Min Wu, Ming-Ming Cheng
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
+
+2. **Vision Transformers with Hierarchical Attention**
+Yun Liu, Yu-Huan Wu, Guolei Sun, Le Zhang, Ajad Chhatkuli, Luc Van Gool
+Machine Intelligence Research (MIR), 2024
+
+2023
+====
+
+1. **P2T: Pyramid Pooling Transformer for Scene Understanding**  
+Yu-Huan Wu\*, Yun Liu\*, Xin Zhan, Ming-Ming Cheng  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023
+[[PDF]](https://yuhuan-wu.github.io/files/[22PAMI] P2T.pdf) [[Code]](https://github.com/yuhuan-wu/P2T) [[中译版]](https://mmcheng.net/wp-content/uploads/2022/08/22PAMI_P2T_CN.pdf) [[LaTex]](https://www.overleaf.com/read/hzbphxtwkjbs) [[中文解读]](https://mp.weixin.qq.com/s/7qXtyFaIiYny0eUqBbPraQ) **[ESI Highly Cited (1%)] [ESI Hot Paper (0.1%)]**
+
+
 2022
 ====
 
 
-1. **P2T: Pyramid Pooling Transformer for Scene Understanding**  
-Yu-Huan Wu\*, Yun Liu\*, Xin Zhan, Ming-Ming Cheng  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022  
-[[PDF]](https://yuhuan-wu.github.io/files/[22PAMI] P2T.pdf) [[Code]](https://github.com/yuhuan-wu/P2T) [[中译版]](https://mmcheng.net/wp-content/uploads/2022/08/22PAMI_P2T_CN.pdf) [[LaTex]](https://www.overleaf.com/read/hzbphxtwkjbs) [[中文解读]](https://mp.weixin.qq.com/s/7qXtyFaIiYny0eUqBbPraQ)
-
-2. **EDN: Salient Object Detection via Extremely-Downsampled Network**<br>
+1. **EDN: Salient Object Detection via Extremely-Downsampled Network**<br>
 Yu-Huan Wu\*, Yun Liu\*, Le Zhang, Ming-Ming Cheng, Bo Ren  
 IEEE Transactions on Image Processing (TIP), 2022  
-[[PDF]](https://yuhuan-wu.github.io/files/[22TIP] EDN.pdf) [[Code]](https://github.com/yuhuan-wu/EDN) [[Data]](https://github.com/yuhuan-wu/EDN/releases/tag/v1.0)
+[[PDF]](https://yuhuan-wu.github.io/files/[22TIP] EDN.pdf) [[Code]](https://github.com/yuhuan-wu/EDN) [[Data]](https://github.com/yuhuan-wu/EDN/releases/tag/v1.0) **[ESI Highly Cited (1%)]**
 
-3. **BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement**  
+2. **BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement**  
 Yunlong Wang, Hongyu Pan, Jun Zhu, Yu-Huan Wu, Xin Zhan, Kun Jiang, Diange Yang  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022  
 [[PDF]](https://yuhuan-wu.github.io/files/[22CVPR] BE-STI.pdf)
 
-4. **Efficient Multi-Scale Feature Extraction for Lightweight Semantic Segmentation**  
+3. **Efficient Multi-Scale Feature Extraction for Lightweight Semantic Segmentation**  
 Yun Liu, Cheng-Ze Lu, Shi-Jie Li, Le Zhang, Yu-Huan Wu, Ming-Ming Cheng  
 Chinese Journal of Computers (计算机学报),  45 (7), 1517-1528  
 [[PDF]](http://cjc.ict.ac.cn/online/onlinepaper/ly-2022711151531.pdf)
