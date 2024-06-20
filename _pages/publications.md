@@ -17,19 +17,19 @@ Technical Report, arXiv preprint, 2022<br>
 2024
 ====
 1. **Revisiting Computer-Aided Tuberculosis Diagnosis**
-Yun Liu, Yu-Huan Wu, Shi-Chen Zhang, Li Liu, Min Wu, Ming-Ming Cheng
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
+Yun Liu, Yu-Huan Wu, Shi-Chen Zhang, Li Liu, Min Wu, Ming-Ming Cheng  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024  
 
-2. **Vision Transformers with Hierarchical Attention**
-Yun Liu, Yu-Huan Wu, Guolei Sun, Le Zhang, Ajad Chhatkuli, Luc Van Gool
-Machine Intelligence Research (MIR), 2024
+2. **Vision Transformers with Hierarchical Attention**  
+Yun Liu, Yu-Huan Wu, Guolei Sun, Le Zhang, Ajad Chhatkuli, Luc Van Gool  
+Machine Intelligence Research (MIR), 2024  
 
 2023
 ====
 
 1. **P2T: Pyramid Pooling Transformer for Scene Understanding**  
 Yu-Huan Wu\*, Yun Liu\*, Xin Zhan, Ming-Ming Cheng  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023  
 [[PDF]](https://yuhuan-wu.github.io/files/[22PAMI] P2T.pdf) [[Code]](https://github.com/yuhuan-wu/P2T) [[中译版]](https://mmcheng.net/wp-content/uploads/2022/08/22PAMI_P2T_CN.pdf) [[LaTex]](https://www.overleaf.com/read/hzbphxtwkjbs) [[中文解读]](https://mp.weixin.qq.com/s/7qXtyFaIiYny0eUqBbPraQ) **[ESI Highly Cited (1%)] [ESI Hot Paper (0.1%)]**
 
 
