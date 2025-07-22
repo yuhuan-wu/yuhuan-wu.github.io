@@ -12,7 +12,12 @@ author_profile: true
 1. **Low-resolution self-attention for semantic segmentation**<br>
 Yu-Huan Wu, Shi-Chen Zhang, Yun Liu, et al. <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
+[[PDF]](https://yuhuan-wu.github.io/files/[25PAMI] LRFormer.pdf) [[Code]](https://github.com/yuhuan-wu/LRFormer) [[中译版]](https://yuhuan-wu.github.io/files/[25PAMI] LRFormer_CN.pdf)
 
+2. **A Survey and Evaluation of Adversarial Attacks in Object Detection**
+Khoi Nguyen Tiet Nguyen, Wenyu Zhang∗, Kangkang Lu, Yu-Huan Wu, Xingjian Zheng, Hui Li Tan, Liangli Zhen
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
+[[PDF]](https://yuhuan-wu.github.io/files/[25TNNLS] SEAA.pdf)
 
 3. **以物体关系为启发的高效 3D 物体检测方法**<br>
 吴宇寰, 张达, 刘云, 张乐, 程明明<br>
