@@ -15,7 +15,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025<br>
 [[PDF]](https://yuhuan-wu.com/files/[25PAMI] LRFormer.pdf) [[Code]](https://github.com/yuhuan-wu/LRFormer) [[中译版]](https://yuhuan-wu.com/files/[25PAMI] LRFormer_CN.pdf)
 
 2. **A Survey and Evaluation of Adversarial Attacks in Object Detection**<br>
-Khoi Nguyen Tiet Nguyen, Wenyu Zhang∗, Kangkang Lu, Yu-Huan Wu, Xingjian Zheng, Hui Li Tan, Liangli Zhen<br>
+Khoi Nguyen Tiet Nguyen, Wenyu Zhang, Kangkang Lu, Yu-Huan Wu, Xingjian Zheng, Hui Li Tan, Liangli Zhen<br>
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.<br>
 [[PDF]](https://yuhuan-wu.com/files/[25TNNLS] SEAA.pdf)
 
@@ -26,18 +26,19 @@ Yu-Huan Wu, Da Zhang, Yun Liu, Le Zhang, Ming-Ming Cheng<br>
 
 4. **GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm**<br>
 Yu-Huan Wu, Wei Liu, Zi-Xuan Zhu, Zizhou Wang, Yong Liu, Liangli Zhen<br>
-Machine Intelligence Research, 2025 <br>
+Machine Intelligence Research (MIR), 2025 <br>
 [[PDF]](https://yuhuan-wu.com/files/[25MIR] GAPNet.pdf) [[Code]](https://github.com/yuhuan-wu/GAPNet)
 
 5. **Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment**<br>
 Shi-Chen Zhang, Yunheng Li, Yu-Huan Wu, Qibin Hou, Ming-Ming Cheng<br>
+International Conference on Computer Vision (ICCV), 2025<br>
 [[PDF]](https://yuhuan-wu.com/files/[25ICCV] OffSeg.pdf) [[Code]](https://github.com/HVision-NKU/OffSeg)
 
 2024
 ====
 1. **Revisiting Computer-Aided Tuberculosis Diagnosis**<br>
 Yun Liu, Yu-Huan Wu, Shi-Chen Zhang, Li Liu, Min Wu, Ming-Ming Cheng  <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 <br>
 [[PDF]](https://yuhuan-wu.com/files/[24PAMI] Tuberculosis.pdf) [[Code]](https://github.com/yun-liu/Tuberculosis)
 
 2. **Vision Transformers with Hierarchical Attention**  
