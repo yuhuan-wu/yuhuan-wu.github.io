@@ -14,7 +14,7 @@ He published several research papers on top-tier journals and conferences like T
 
 [New!] We are hiring! Currently, we welcome both short-term and long-term interns. Projects are related to, but not limited to, robust visual systems, efficient networks, and domain generalization. Our team will cover all costs during the internship in Singapore. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV.
 
-[[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] ihpc.a-star.edu.sg]
+[[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] a-star.edu.sg]
 
 News
 =======
