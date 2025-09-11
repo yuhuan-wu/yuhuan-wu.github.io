@@ -20,9 +20,11 @@ News
 =======
 ---------------
 
-* [2025/07] OffSeg is accepted by IEEE ICCV
+* [2025/09] [GAPNet](https://github.com/yuhuan-wu/GAPNet) is accepted by Machine Intelligence Research
+* [2025/07] [OffSeg](https://github.com/HVision-NKU/OffSeg) is accepted by IEEE ICCV
 * [2025/06] [LRFormer](https://github.com/yuhuan-wu/LRFormer) is accepted by IEEE TPAMI
-* [2025/01] [Survey of adversarial attacks] is accepted by TNNLS
+* [2025/02] [Ret3D](https://mftp.mmcheng.net/Papers/25SC-3ddet.pdf) is accepted by SCIENTIA SINICA Informationis
+* [2025/01] [Survey of adversarial attacks](https://yuhuan-wu.github.io/files/[25TNNLS] SEAA.pdf) is accepted by TNNLS
 * [2024/01] [HATNet](https://github.com/yun-liu/HAT-Net) is accepted by Machine Intelligence Research
 * [2023/12] [SymFormer](https://arxiv.org/abs/2307.02848), the extension of our CVPR 2020 oral paper is accepted by IEEE TPAMI
 * [2023/03] I join IHPC A*STAR as a research scientist
