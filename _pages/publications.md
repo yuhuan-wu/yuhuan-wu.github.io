@@ -10,7 +10,7 @@ author_profile: true
 2025
 ====
 1. **Low-resolution self-attention for semantic segmentation**<br>
-Yu-Huan Wu, Shi-Chen Zhang, Yun Liu, et al. <br>
+Yu-Huan Wu, Shi-Chen Zhang, Yun Liu, Le Zhang, Xin Zhan, Daquan Zhou, Jiashi Feng, Ming-Ming Cheng, Liangli Zhen<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025<br>
 [[PDF]](https://yuhuan-wu.com/files/[25PAMI] LRFormer.pdf) [[Code]](https://github.com/yuhuan-wu/LRFormer) [[中译版]](https://yuhuan-wu.com/files/[25PAMI] LRFormer_CN.pdf)
 
