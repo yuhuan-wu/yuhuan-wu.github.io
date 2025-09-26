@@ -19,6 +19,7 @@ Work experience
 
 Projects
 ======
+* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program, Principle Investigator.
 * 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principle Investigator.
 
 Honors
