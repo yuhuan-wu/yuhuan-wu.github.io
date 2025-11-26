@@ -7,6 +7,15 @@ author_profile: true
 `*` denotes equal contribution.
 
 
+Preprint
+====
+
+1. **RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection**<br>
+Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan<br>
+ArXiv ePriprint, 2025<br>
+[[PDF]](https://yuhuan-wu.com/files/[25arxiv] RefOnce.pdf) [[Code]](https://github.com/yuhuan-wu/RefOnce) 
+
+
 2025
 ====
 1. **Low-resolution self-attention for semantic segmentation**<br>

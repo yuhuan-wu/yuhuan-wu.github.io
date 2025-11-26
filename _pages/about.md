@@ -20,6 +20,7 @@ News
 =======
 ---------------
 
+* [2025/11] We release [RefOnce](https://yuhuan-wu.com/files/[25arxiv] RefOnce.pdf) for Ref-COD
 * [2025/09] [GAPNet](https://github.com/yuhuan-wu/GAPNet) is accepted by Machine Intelligence Research
 * [2025/07] [OffSeg](https://github.com/HVision-NKU/OffSeg) is accepted by IEEE ICCV
 * [2025/06] [LRFormer](https://github.com/yuhuan-wu/LRFormer) is accepted by IEEE TPAMI
