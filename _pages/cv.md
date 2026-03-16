@@ -19,11 +19,13 @@ Work experience
 
 Projects
 ======
-* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program, Principle Investigator.
-* 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principle Investigator.
+* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, Principal Investigator. (Incoming)
+* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program, Principal Investigator. (Co-PIs: Dr. Liangli Zhen, Dr. Hongyuan Zhu)
+* 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principal Investigator.
 
 Honors
 =====
+* 2024 - CSIG Excellent PhD Dissertation
 * 2022 - 10 Outstanding Postgraduate Students of Nankai University in 2022
 * 2022 - National Scholarship
 * 2021 - First Prize Scholarship, Nankai University
