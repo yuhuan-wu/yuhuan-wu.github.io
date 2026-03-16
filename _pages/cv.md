@@ -25,6 +25,7 @@ Projects
 
 Honors
 =====
+* 2026 - Singapore NRF Postdoctoral Award
 * 2024 - CSIG Excellent PhD Dissertation
 * 2022 - 10 Outstanding Postgraduate Students of Nankai University in 2022
 * 2022 - National Scholarship
