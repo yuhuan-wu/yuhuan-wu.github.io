@@ -14,7 +14,7 @@ He published several research papers on top-tier journals and conferences like T
 
 🔥 **We are hiring!** We encourage research in, but not limited to, **robust visual systems, SAR/IR imaging, domain generalization, efficient networks, and multi-modal AI**. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV. ✉️
 * **Full-time Research Scientist/Engineer**: We have openings for full-time research scientists and engineers.
-* **Full-time/Remote Research Intern**: We welcome both short-term and long-term interns.
+* **Full-time/Remote Research Intern**: We welcome both short-term and long-term interns (project-funded / CSC).
 
 [[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] a-star.edu.sg]
 
