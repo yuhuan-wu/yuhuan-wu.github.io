@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Yu-Huan Wu is a research scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022.
+Yu-Huan Wu is a senior scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022.
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
 
-[New!] We are hiring! Currently, we welcome both short-term and long-term interns. Projects are related to, but not limited to, robust visual systems, efficient networks, and domain generalization. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV.
+🔥 **We are hiring!** We have **openings for research scientists/engineers and interns** (both short-term and long-term). We encourage research in, but not limited to, **robust visual systems, SAR/IR imaging, domain generalization, efficient networks, and multi-modal AI**. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV. ✉️
 
 [[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] a-star.edu.sg]
 
@@ -20,17 +20,18 @@ News
 =======
 ---------------
 
-* [2025/12] I received Singapore NRF Postdoctoral Award (NRF-PA) with 4-year full support
+* [2026/04] Promoted to Senior Scientist
+* [2026/03] Received Singapore NRF Postdoctoral Award (NRF-PA) with 4-year full support
 * [2025/11] We release [RefOnce](https://yuhuan-wu.com/files/[25arxiv] RefOnce.pdf) for Ref-COD
 * [2025/09] [GAPNet](https://github.com/yuhuan-wu/GAPNet) is accepted by Machine Intelligence Research
 * [2025/07] [OffSeg](https://github.com/HVision-NKU/OffSeg) is accepted by IEEE ICCV
 * [2025/06] [LRFormer](https://github.com/yuhuan-wu/LRFormer) is accepted by IEEE TPAMI
 * [2025/02] [Ret3D](https://mftp.mmcheng.net/Papers/25SC-3ddet.pdf) is accepted by SCIENTIA SINICA Informationis
 * [2025/01] [Survey of adversarial attacks](https://yuhuan-wu.github.io/files/[25TNNLS] SEAA.pdf) is accepted by TNNLS
-* [2024/12] I received Excellent PhD Dissertation Award (博士学位论文激励计划) from CSIG 
+* [2024/12] Received Excellent PhD Dissertation Award (博士学位论文激励计划) from CSIG 
 * [2024/01] [HATNet](https://github.com/yun-liu/HAT-Net) is accepted by Machine Intelligence Research
 * [2023/12] [SymFormer](https://arxiv.org/abs/2307.02848), the extension of our CVPR 2020 oral paper is accepted by IEEE TPAMI
-* [2023/03] I join IHPC A*STAR as a research scientist
+* [2023/03] Joined IHPC A*STAR as a research scientist
 * [2022/08] [P2T](https://www.zhihu.com/question/445556653/answer/2804026992) is accepted by IEEE TPAMI
 * [2022/08] We organized a [Webinar](https://rc.signalprocessingsociety.org/education/webinars/SPSWEB2212.html) at IEEE Signal Processing Society
 * [2022/04] [EDN](https://github.com/yuhuan-wu/EDN) is accepted by IEEE TIP
@@ -43,6 +44,15 @@ News
 * [2020/03] [TBX11K](https://mmcheng.net/tb/) is accepted by IEEE CVPR (Oral)
 
 ---------------
+
+
+Projects (PI)
+======
+* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, National Research Foundation (NRF), Principal Investigator (PI).
+* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program (SAP), Principal Investigator (PI). (Co-PIs: Dr. Liangli Zhen, Dr. Hongyuan Zhu)
+* 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principal Investigator (PI).
+
+
 
 Professional Services
 ======

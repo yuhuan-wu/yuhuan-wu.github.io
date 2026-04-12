@@ -15,19 +15,21 @@ Education
 
 Work experience
 ======
-* 2023/03 - Now: Scientist, IHPC, A*STAR, Singapore
+* 2026/03 - Present: Senior Scientist, IHPC, A*STAR, Singapore
+* 2023/03 - 2026/03: Scientist, IHPC, A*STAR, Singapore
+* 2021/05 - 2023/03: Research Intern, Autonomous Driving Lab of Alibaba DAMO Academy, China
 
 Projects
 ======
-* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, Principal Investigator. (Incoming)
-* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program, Principal Investigator. (Co-PIs: Dr. Liangli Zhen, Dr. Hongyuan Zhu)
-* 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principal Investigator.
+* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, National Research Foundation (NRF), Principal Investigator (PI).
+* 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program (SAP), Principal Investigator (PI). (Co-PIs: Dr. Liangli Zhen, Dr. Hongyuan Zhu)
+* 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principal Investigator (PI).
 
 Honors
 =====
-* 2026 - Singapore NRF Postdoctoral Award
-* 2024 - CSIG Excellent PhD Dissertation
-* 2022 - 10 Outstanding Postgraduate Students of Nankai University in 2022
+* 2026 - **NRF Postdoctoral Award**
+* 2024 - **CSIG Excellent PhD Dissertation Award**
+* 2022 - 10 Outstanding Postgraduate Students of Nankai University (南开十杰)
 * 2022 - National Scholarship
 * 2021 - First Prize Scholarship, Nankai University
 * 2021 - Outstanding Reviewer, CVPR 2021
