@@ -12,7 +12,9 @@ Yu-Huan Wu is a senior scientist at Institute of High Performance Computing (IHP
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
 
-🔥 **We are hiring!** We have **openings for research scientists/engineers and interns** (both short-term and long-term). We encourage research in, but not limited to, **robust visual systems, SAR/IR imaging, domain generalization, efficient networks, and multi-modal AI**. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV. ✉️
+🔥 **We are hiring!** We encourage research in, but not limited to, **robust visual systems, SAR/IR imaging, domain generalization, efficient networks, and multi-modal AI**. If you are interested in working with us and experiencing the top-tier research environment in Singapore, please send me an email with your CV. ✉️
+* **Full-time Research Scientist/Engineer**: We have openings for full-time research scientists and engineers.
+* **Full-time/Remote Research Intern**: We welcome both short-term and long-term interns.
 
 [[Google Scholar]](https://scholar.google.com/citations?user=CO-Svo4AAAAJ) [[Research Gate]](https://www.researchgate.net/profile/Yu-Huan-Wu-2) [Email: wu_yuhuan [at] a-star.edu.sg]
 
