@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yu-Huan Wu is a senior scientist at Institute of High Performance Computing (IHPC), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022.
+Yu-Huan Wu is a senior scientist at Centre for Frontier AI Research (CFAR), A*STAR, Singapore. Before that, he received his PhD from Nankai University in 2022.
 His research interests include object detection and segmentation, as well as related applications like medical imaging and autonomous driving.
 He published several research papers on top-tier journals and conferences like TPAMI/TIP/CVPR/ICCV.
 

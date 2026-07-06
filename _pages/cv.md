@@ -15,13 +15,13 @@ Education
 
 Work experience
 ======
-* 2026/03 - Present: Senior Scientist, IHPC, A*STAR, Singapore
-* 2023/03 - 2026/03: Scientist, IHPC, A*STAR, Singapore
-* 2021/05 - 2023/03: Research Intern, Autonomous Driving Lab of Alibaba DAMO Academy, China
+* 2026 - Present: Senior Scientist, CFAR, A*STAR, Singapore
+* 2023 - 2026: Scientist & Senior Scientist, IHPC, A*STAR, Singapore
+* 2021 - 2023: Research Intern, Autonomous Driving Lab of Alibaba DAMO Academy, China
 
 Projects
 ======
-* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, National Research Foundation (NRF), Principal Investigator (PI).
+* 2026/04 - 2030/03: Dynamic Adaptive Visual Perception: A New Paradigm for Robust and Efficient Multimodal AI, National Research Foundation (NRF), Principal Investigator (PI). 
 * 2026/02 - 2028/01: Assessment of Brittleness and Anomaly Mitigation for Computer Vision Models, Singapore Aerospace Program (SAP), Principal Investigator (PI). (Co-PIs: Dr. Liangli Zhen, Dr. Hongyuan Zhu)
 * 2024/01 - 2025/12: Revisiting Highly Efficient Self-Attention for Dense Prediction, A*STAR Career Development Fund (CDF), Principal Investigator (PI).
 
